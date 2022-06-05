@@ -1,0 +1,14 @@
+.main{
+    background-image: url("/assets/main_photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    margin: 0 0 0 1em;
+    width: 97.3%;
+}
+
+.main p{
+    color: rgb(66, 60, 60);
+    font-size: 30px;
+    text-align: center;
+}

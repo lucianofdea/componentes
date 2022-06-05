@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #6f5757;
+    margin-bottom: 1em;
+}
+
+.logotipo{
+    height: 60px;
+    margin-right: .5em;
+}
+
+ul li a{
+    color:black;
+    font-size: 1.2em;
+
+}
